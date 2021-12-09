@@ -1,1 +1,1 @@
-# first-smart-contract
+# simple-storage-smart-contract
